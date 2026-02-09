@@ -57,11 +57,10 @@ Before transitioning into IT, I worked in retail for many years and held a manag
 ## 📚 Currently Learning
 
 - Web development (Django, REST APIs)
+- Development of AI agents
 - Backend architecture and scalability
 - Database optimization and ORM internals
 - Clean Architecture & best practices
-
-
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
