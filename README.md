@@ -41,9 +41,6 @@ Before transitioning into IT, I worked in retail for many years and held a manag
 - Studying **algorithms, data structures, and clean code principles**
 - Development of AI agent using **LangGraph, LangChain, Django**
 
-👉 Portfolio website:  
-🔗 https://yevheniyevt.github.io
-
 ---
 
 ## 🛠 Tech Stack
