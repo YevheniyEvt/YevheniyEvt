@@ -61,7 +61,3 @@ Before transitioning into IT, I worked in retail for many years and held a manag
 - Backend architecture and scalability
 - Database optimization and ORM internals
 - Clean Architecture & best practices
-
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Django](https://img.shields.io/badge/Django-4.x-green)
