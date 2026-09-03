@@ -18,8 +18,8 @@ Before transitioning into IT, I worked in retail for many years and held a manag
 
 ### **Python Developer**  
 **K2**
-Developed inventory and financial accounting functionality for an ERP system, covering business scenarios for operational and accounting processes.
 
+- Developed inventory and financial accounting functionality for an ERP system, covering business scenarios for operational and accounting processes.
 - Implement automated accounting entry generation mechanisms across different system modules to ensure accurate recording of business transactions.
 -Develop REST APIs and server-side logic using Flask to integrate modules and support internal business processes.
 - Developed desktop (PyQt6) and cloud-based applications to automate cashier workplaces in accordance with the product's business requirements.
